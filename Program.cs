@@ -12,6 +12,7 @@ namespace KatanaCustomSelfHost
                 Console.WriteLine("Servidor Katana (vNext) online !!!");
 
                 Console.ReadLine();
+
             }
         }
     }
